@@ -27,10 +27,7 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * In love with High Performing Distributed Systems 💻
 * Most of the time, am plumbing, automating and keep fixing system to either make it work together, automate them or scale them 📈⚙️
 * Absolute in love with projects: 🧑‍🏭
-  - Nginx / Openresty : Along with power of Lua
-  - HAProxy
-  - Kubernetes
-  - Python
+    Nginx / Openresty : Along with power of Lua, HAProxy, Kubernetes, Python
 * Few Interesting Projects, I have worked on - Video Streaming, Ratelimiting, Service Discovery, Developing CMDB, And also custom Ingress controller.
 
 ### Publications
