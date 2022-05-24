@@ -47,4 +47,4 @@ Always keen towards new recommendation 😉 let me know your favourite song.
 * 📫 : rushikeshbutley@gmail.com
 
 ## Work Status
-👷‍♀️ : Actively Looking for Summer 22 Internships
+👷‍♀️ : Currently working at Confluent as Summer 22 Intern, as cloud infrastructure intern.
