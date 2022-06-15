@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://tenor.com/bEAlI.gif)
+### Hi there (: <img src="https://media.giphy.com/media/lvjW50Ld1D4qHD0wra/giphy.gif" width="49">
 <!--
 **rushi47/rushi47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
-### 🕶️ Day-to-day life
+### 🌱 Day-to-day life
 
 * Reading about Distributed Systems, Platform and Infrastructure Engineering, well anything which is interesting and related to Computers 
 * Attending classes - Back in academia, pursuing my Masters from Virginia Tech
 
-### ⚙️ Technical stuff
+### 🛰️ Technical stuff
 
 * Quite keen about High Performing Distributed Systems 
 * Most of the time, am plumbing, automating and keep fixing systems to either make it work together, automate them or scale them 
