@@ -52,7 +52,7 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * I try to click  :[travelling._.converse](https://www.instagram.com/travelling._.converse/)
 * Listen to indie music, few of my favourite bands & singers: When chai met toast, Prateek Kuhad, The Lumineers & also John Denever. 
 
-### 💭 You can reach me on 
+### 💌 You can reach me on 
 
 * [LinkedIN](https://linkedin.com/in/rushikeshbutley)
 * rushikeshbutley@gmail.com
