@@ -20,7 +20,7 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * Reading about Distributed Systems, Platform and Infrastructure Engineering, well anything which is interesting and related to Computers 
 * Attending classes - Back in academia, pursuing my Masters from Virginia Tech
 
-### 🛰️ Technical stuff
+### 💡 Technical stuff
 
 * Quite keen about High Performing Distributed Systems 
 * Most of the time, am plumbing, automating and keep fixing systems to either make it work together, automate them or scale them 
