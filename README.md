@@ -17,16 +17,14 @@ Here are some ideas to get you started:
 I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
 ### Day-to-day life
-
-* Reading about Distributed Systems, Platform and Infrastructure Engineering, well anything which is interesting and related to Computers 🙂
-* Playing with my puppy 🐶❤️
-* And now days am attending classes 📚 - Back in academia 🏫, pursuing my Masters from Virginia Tech
+* Reading about Distributed Systems, Platform and Infrastructure Engineering, well anything which is interesting and related to Computers 
+* Attending classes - Back in academia, pursuing my Masters from Virginia Tech
 
 ### Technical stuff
 
-* In love with High Performing Distributed Systems 💻
-* Most of the time, am plumbing, automating and keep fixing systems to either make it work together, automate them or scale them 📈⚙️
-* Absolute in love with projects: 🧑‍🏭
+* Quite keen about High Performing Distributed Systems 
+* Most of the time, am plumbing, automating and keep fixing systems to either make it work together, automate them or scale them 
+* Few project I adore : 
     Nginx / Openresty : Along with power of Lua, HAProxy, Kubernetes, Python
 * Few Interesting Projects, I have worked on - Video Streaming, Ratelimiting, Service Discovery, Developing CMDB, And also custom Ingress controller.
 
@@ -36,11 +34,9 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * 📄: Blog on desigining Ratelimting solution from scratch - [Blog](https://www.egnyte.com/blog/post/how-egnyte-uses-rate-limiting-to-dynamically-scale)
 * 🗞️: Video Transcoding at Scale - [Blog](https://www.egnyte.com/blog/post/transcoding-how-we-serve-videos-at-scale)
 
-## We Might Have in Common
-
-* 🎴: Trying to seize the world in my photographs 📸, do visit my insta page 🙂 :[travelling._.converse](https://www.instagram.com/travelling._.converse/)
-* 🎵: Fan of indie music, few of my favourite bands & singers: When chai met toast, Prateek Kuhad, The Lumineers & also John Denever. 
-Always keen towards new recommendation 😉 let me know your favourite song.
+## When am not doing Tech
+* 🎴: I try to click  :[travelling._.converse](https://www.instagram.com/travelling._.converse/)
+* 🎵: Listen to indie music, few of my favourite bands & singers: When chai met toast, Prateek Kuhad, The Lumineers & also John Denever. 
 
 ## You can reach me on 💭
 * 🔗 : [LinkedIN](https://linkedin.com/in/rushikeshbutley)
