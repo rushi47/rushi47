@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://tenor.com/bEAlI.gif)
 <!--
 **rushi47/rushi47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
