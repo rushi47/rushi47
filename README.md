@@ -26,7 +26,7 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * Most of the time, am plumbing, automating and keep fixing systems to either make it work together, automate them or scale them 
 * Few project I adore : 
     Nginx / Openresty : Along with power of Lua, HAProxy, Kubernetes, Envoy
-* Few Interesting Projects, I have worked on - Video Streaming, Ratelimiting, Service Discovery, Developing CMDB, And also custom Ingress controller.
+* Few Interesting Projects, I have worked on - Video Streaming using HLS, Ratelimiting, Service Discovery, Developing CMDB, And also custom Ingress controller.
 
 ### 🛠️ Languages I Speak & Tools I can Hammer with 
 
