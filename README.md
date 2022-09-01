@@ -59,4 +59,4 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
 ### 👷‍ Work Status
 
-Currently working at Confluent as Summer 22 Intern, in Cloud Infrastructure Team.
+Open for Full Time Roles
