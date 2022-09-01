@@ -59,4 +59,4 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
 ### 👷‍ Work Status
 
-Open for Full Time Roles
+* Currently open for Full Time Roles
