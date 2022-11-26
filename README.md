@@ -47,11 +47,6 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * Blog on desigining Ratelimting solution from scratch - [Blog](https://www.egnyte.com/blog/post/how-egnyte-uses-rate-limiting-to-dynamically-scale)
 * Video Transcoding at Scale - [Blog](https://www.egnyte.com/blog/post/transcoding-how-we-serve-videos-at-scale)
 
-### 🎴 When am not doing Tech
-
-* I try to click  :[travelling._.converse](https://www.instagram.com/travelling._.converse/)
-* Listen to indie music, few of my favourite bands & singers: When chai met toast, Prateek Kuhad, The Lumineers & also John Denever. 
-
 ### 💌 You can reach me on 
 
 * [LinkedIN](https://linkedin.com/in/rushikeshbutley)
