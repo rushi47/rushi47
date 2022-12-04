@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 -->
 I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
-### 🌱 Day-to-day life
-
-* Reading about Distributed Systems, Platform and Infrastructure Engineering, well anything which is interesting and related to Computers 
-* Attending classes - Back in academia, pursuing my Masters from Virginia Tech
-
 ### 💡 Technical stuff
 
 * Quite keen about High Performing Distributed Systems 
@@ -52,6 +47,6 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * [LinkedIN](https://linkedin.com/in/rushikeshbutley)
 * rushikeshbutley@gmail.com
 
-### 👷‍ Work Status
-
+### 👷‍ Current Status
+* Attending classes - Back in academia, pursuing my Masters from Virginia Tech
 * Currently open for Full Time Roles
