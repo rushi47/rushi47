@@ -48,5 +48,5 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 * rushikeshbutley@gmail.com
 
 ### 👷‍ Current Status
-* Attending classes - Back in academia, pursuing my Masters from Virginia Tech
+* Attending classes - Back in academia, pursuing my graduate degree from Virginia Tech
 * Currently open for Full Time Roles
