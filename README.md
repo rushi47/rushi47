@@ -1,4 +1,4 @@
-### Hi there (: <img src="https://media.giphy.com/media/lvjW50Ld1D4qHD0wra/giphy.gif" width="49">
+### Hi there (: 
 
 I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
