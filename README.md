@@ -1,52 +1,32 @@
 ### Hi there (: <img src="https://media.giphy.com/media/lvjW50Ld1D4qHD0wra/giphy.gif" width="49">
-<!--
-**rushi47/rushi47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
-### 💡 Technical stuff
+---
+I am quite keen about open source and am always lookout for projects to contribute specially in {Network, Compute} Infrastructure and in Systems.
+I have few tricks, up my sleevs with tools and languages.
 
-* Quite keen about High Performing Distributed Systems 
-* Most of the time, am plumbing, automating and keep fixing systems to either make it work together, automate them or scale them 
-* Few project I adore : 
-    Nginx / Openresty : Along with power of Lua, HAProxy, Kubernetes, Envoy
-* Few Interesting Projects, I have worked on - Video Streaming using HLS, Ratelimiting, Service Discovery, Developing CMDB, And also custom Ingress controller.
+##### In no particular order
+ Python, Java, Lua, Go Lang, Rust(Exploring)
+ CentOS, RHEL, Ubuntu
+ Haproxy, Nginx/Openresty,
+ Kubernetes, Docker, MySQL Orchestrator 
+ Helm, Helmsman 
+ Terraform, Consul, Vault, Packer, Vagrant 
+ Ansible, Puppet, Jenkins, Git
+ ELK, Nagios, SCollector, Prometheus, Grafana, Neo4j
+ Redis, Memcached, MongoDB, MySQL
+ GCP, AWS
 
-### 🛠️ Languages I Speak & Tools I can Hammer with 
-
-* **Lang**: Python, Java, Lua, Go Lang
-* **OS**: CentOS, RHEL, Ubuntu
-* **LBs & Proxies** : Haproxy, Nginx/Openresty,
-* **Orhcestrators** : Kubernetes, Docker, MySQL Orchestrator 
-* **Package Managers**: Helm, Helmsman 
-* **Hashi Stack** : Terraform, Consul, Vault, Packer, Vagrant 
-* **Configuration Managment** : Ansible, Puppet, Jenkins, Git
-* **Logging & Monitoring** : ELK, Nagios, SCollector, Prometheus, Grafana, Neo4j
-* **DBs** : Redis, Memcached, MongoDB, MySQL
-* **Cloud Providers** : GCP, AWS
-
-### 📚 Publications
-
+##### I have published few blogs from my previous work
 * Library to solve niche problem of calculating cpu in Kubernetes - Try here : https://github.com/rushi47/cgrputil
 * Blog on desigining Ratelimting solution from scratch - [Blog](https://www.egnyte.com/blog/post/how-egnyte-uses-rate-limiting-to-dynamically-scale)
 * Video Transcoding at Scale - [Blog](https://www.egnyte.com/blog/post/transcoding-how-we-serve-videos-at-scale)
 
-### 💌 You can reach me on 
+#### Social Media  
 
-* [LinkedIN](https://linkedin.com/in/rushikeshbutley)
-* rushikeshbutley@gmail.com
+[Linkedin](https://linkedin.com/in/rushikeshbutley) | [Email](rushikeshbutley@gmail.com)
+| - | - |
 
-### 👷‍ Current Status
-* Attending classes - Back in academia, pursuing my graduate degree from Virginia Tech
+### Current Status
 * Currently open for Full Time Roles
