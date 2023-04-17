@@ -18,6 +18,8 @@ I have few tricks, up my sleevs with tools and languages.
  Redis, Memcached, MongoDB, MySQL
  GCP, AWS
 
+Currently running Rust and trying to explore bpfs.
+
 ##### I have published few blogs from my previous work
 * Library to solve niche problem of calculating cpu in Kubernetes - Try here : https://github.com/rushi47/cgrputil
 * Blog on desigining Ratelimting solution from scratch - [Blog](https://www.egnyte.com/blog/post/how-egnyte-uses-rate-limiting-to-dynamically-scale)
