@@ -3,7 +3,7 @@
 I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
 ---
-I am quite keen about open source and am always lookout for projects to contribute specially in {Network, Compute} Infrastructure and in Systems.
+I am quite keen about open source and I am always on lookout for projects to contribute. Specially in {Network, Compute} Infrastructure and in Systems.
 I have few tricks, up my sleevs with tools and languages.
 
 ##### In no particular order
@@ -18,7 +18,7 @@ I have few tricks, up my sleevs with tools and languages.
  Redis, Memcached, MongoDB, MySQL
  GCP, AWS
 
-Currently running Rust and trying to explore bpfs.
+Currently learning Rust and trying to explore bpfs.
 
 ##### I have published few blogs from my previous work
 * Library to solve niche problem of calculating cpu in Kubernetes - Try here : https://github.com/rushi47/cgrputil
