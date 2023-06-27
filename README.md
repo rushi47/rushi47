@@ -24,7 +24,7 @@ Currently learning Rust and trying to explore bpfs.
 * Library to solve niche problem of calculating cpu in Kubernetes - Try here : https://github.com/rushi47/cgrputil
 * Blog on desigining Ratelimting solution from scratch - [Blog](https://www.egnyte.com/blog/post/how-egnyte-uses-rate-limiting-to-dynamically-scale)
 * Video Transcoding at Scale - [Blog](https://www.egnyte.com/blog/post/transcoding-how-we-serve-videos-at-scale)
-
+* Proposal on Service Mirror Prototype, for Linkerd (LFX) : https://github.com/linkerd/linkerd2/issues/10747
 #### Social Media  
 
 [Linkedin](https://linkedin.com/in/rushikeshbutley) | [Email](rushikeshbutley@gmail.com)
