@@ -3,7 +3,7 @@
 I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 
 ---
-I am quite keen about open source and I am always on lookout for projects to contribute. Specially in {Network, Compute} Infrastructure and in Systems.
+I am quite keen about open source and I am always on lookout for projects to contribute. Specially in Infrastructure {Network, Compute} and in Systems.
 I have few tricks, up my sleevs with tools and languages.
 
 ##### In no particular order
