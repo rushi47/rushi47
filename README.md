@@ -8,14 +8,14 @@ I have few tricks, up my sleevs with tools and languages.
 
 ##### In no particular order
  Python, Java, Lua, Go Lang, Rust(Exploring)
- CentOS, RHEL, Ubuntu
+ CentOS, RHEL, Ubuntu,
  Haproxy, Nginx/Openresty,
- Kubernetes, Docker, MySQL Orchestrator 
- Helm, Helmsman 
- Terraform, Consul, Vault, Packer, Vagrant 
- Ansible, Puppet, Jenkins, Git
- ELK, Nagios, SCollector, Prometheus, Grafana, Neo4j
- Redis, Memcached, MongoDB, MySQL
+ Kubernetes, Docker, MySQL Orchestrator, 
+ Helm, Helmsman, 
+ Terraform, Consul, Vault, Packer, Vagrant, 
+ Ansible, Puppet, Jenkins, Git,
+ ELK, Nagios, SCollector, Prometheus, Grafana, Neo4j,
+ Redis, Memcached, MongoDB, MySQL,
  GCP, AWS
 
 Currently learning Rust and trying to explore bpfs.
