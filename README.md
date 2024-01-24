@@ -29,6 +29,3 @@ Currently learning Rust and trying to explore bpfs.
 
 [Linkedin](https://linkedin.com/in/rushikeshbutley) | [Email](rushikeshbutley@gmail.com)
 | - | - |
-
-### Current Status
-* Currently open for Full Time Roles
