@@ -6,6 +6,7 @@ I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
 I am quite keen about open source and I am always on lookout for projects to contribute. Specially in Infrastructure {Network, Compute} and in Systems.
 I have few tricks, up my sleevs with tools and languages.
 
+<!--
 ##### In no particular order
  Python, Java, Lua, Go Lang, Rust(Exploring)
  CentOS, RHEL, Ubuntu,
@@ -17,8 +18,9 @@ I have few tricks, up my sleevs with tools and languages.
  ELK, Nagios, SCollector, Prometheus, Grafana, Neo4j,
  Redis, Memcached, MongoDB, MySQL,
  GCP, AWS
+-->
 
-Currently learning Rust and trying to explore bpfs.
+Currently finding opportunities to learn Rust and explore bpfs.
 
 ##### I have published few blogs from my previous work
 * Library to solve niche problem of calculating cpu in Kubernetes - Try here : https://github.com/rushi47/cgrputil
