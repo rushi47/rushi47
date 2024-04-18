@@ -22,11 +22,12 @@ I have few tricks, up my sleevs with tools and languages.
 
 Currently finding opportunities to learn Rust and explore bpfs.
 
-##### I have published few blogs from my previous work
+##### Blogs from previous work
 * Library to solve niche problem of calculating cpu in Kubernetes - Try here : https://github.com/rushi47/cgrputil
-* Blog on desigining Ratelimting solution from scratch - [Blog](https://www.egnyte.com/blog/post/how-egnyte-uses-rate-limiting-to-dynamically-scale)
+* Desigining Ratelimting from scratch - [Blog](https://www.egnyte.com/blog/post/how-egnyte-uses-rate-limiting-to-dynamically-scale)
 * Video Transcoding at Scale - [Blog](https://www.egnyte.com/blog/post/transcoding-how-we-serve-videos-at-scale)
-* Proposal on Service Mirror Prototype, for Linkerd (LFX) : https://github.com/linkerd/linkerd2/issues/10747
+* MySQL Replication - [Blog](https://www.egnyte.com/blog/post/how-egnyte-achieves-mysql-high-availability)
+
 #### Social Media  
 
 [Linkedin](https://linkedin.com/in/rushikeshbutley) | [Email](rushikeshbutley@gmail.com)
