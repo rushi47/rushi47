@@ -1,6 +1,6 @@
 ### Hi there (: 
 
-I'm Rushikesh, feel free to call me **Rushi** [ऋषी]🧔.
+My name is Rushikesh, though I often go by **Rushi** [ऋषी]🧔.
 
 ---
 I am quite keen about open source and I am always on lookout for projects to contribute. Specially in Infrastructure {Network, Compute} and in Systems.
