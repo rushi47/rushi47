@@ -1,26 +1,19 @@
 ### Hi there (: 
 
-My name is Rushikesh, though I often go by **Rushi** [ऋषी]🧔.
+My name is Rushikesh, though I often go by Rushi [ऋषी] 🧔. I’m quite passionate about open source and enjoy working on infrastructure and systems, especially networking and compute. I’m always happy to contribute to interesting OSS projects, so if you’re building something exciting and need an extra pair of hands, feel free to reach out.
 
----
-I am quite keen about open source and I am always on lookout for projects to contribute. Specially in Infrastructure {Network, Compute} and in Systems.
-I have few tricks, up my sleevs with tools and languages.
+I have a few tricks up my sleeve with:
+##### Tools and languages
 
-<!--
-##### In no particular order
- Python, Java, Lua, Go Lang, Rust(Exploring)
- CentOS, RHEL, Ubuntu,
- Haproxy, Nginx/Openresty,
- Kubernetes, Docker, MySQL Orchestrator, 
- Helm, Helmsman, 
- Terraform, Consul, Vault, Packer, Vagrant, 
- Ansible, Puppet, Jenkins, Git,
- ELK, Nagios, SCollector, Prometheus, Grafana, Neo4j,
- Redis, Memcached, MongoDB, MySQL,
- GCP, AWS
--->
+- **Languages:** Python, Java, Go, Lua, Rust *(exploring)*
+- **Operating Systems:** CentOS, RHEL, Ubuntu
+- **Networking & Web:** HAProxy, Nginx, OpenResty
+- **Containers & Orchestration:** Kubernetes, Docker, Helm, Helmsman
+- **Infrastructure & Cloud:** Terraform, Consul, Vault, Packer, Vagrant, GCP, AWS
+- **Databases & Storage:** MySQL, MongoDB, Redis, Memcached, Neo4j, MySQL Orchestrator
+- **DevOps & Automation:** Ansible, Puppet, Jenkins, Git
+- **Observability & Monitoring:** ELK, Prometheus, Grafana, Nagios, SCollector
 
-Currently finding opportunities to learn Rust and explore bpfs.
 
 ##### Blogs from previous work
 * Library to solve niche problem of calculating cpu in Kubernetes - Try here : https://github.com/rushi47/cgrputil
